@@ -5,3 +5,85 @@ bash: ?read_csv: command not found
 ]0;~/Documents/development/R/meatballkthomp-ltm:meatball kevin.thompson$ git init
 Initialized empty Git repository in /Users/kevin.thompson/Documents/development/R/meatball/.git/
 ]0;~/Documents/development/R/meatballkthomp-ltm:meatball kevin.thompson$ git add .
+]0;~/Documents/development/R/meatballkthomp-ltm:meatball kevin.thompson$ git[K[K[Kgit commit [K[K[K[K[K[K[K[K[K[K[Kgit commit -m "initial commit"
+[master (root-commit) 8a73917] initial commit
+ 35 files changed, 1427 insertions(+)
+ create mode 100644 .RData
+ create mode 100644 .Rhistory
+ create mode 100644 .Rproj.user/2A010805/console06/A0CC63F
+ create mode 100644 .Rproj.user/2A010805/console06/A0CC63F.env
+ create mode 100644 .Rproj.user/2A010805/console06/INDEX001
+ create mode 100644 .Rproj.user/2A010805/pcs/files-pane.pper
+ create mode 100644 .Rproj.user/2A010805/pcs/source-pane.pper
+ create mode 100644 .Rproj.user/2A010805/pcs/windowlayoutstate.pper
+ create mode 100644 .Rproj.user/2A010805/pcs/workbench-pane.pper
+ create mode 100644 .Rproj.user/2A010805/rmd-outputs
+ create mode 100644 .Rproj.user/2A010805/saved_source_markers
+ create mode 100644 .Rproj.user/2A010805/sources/prop/29B09FEA
+ create mode 100644 .Rproj.user/2A010805/sources/prop/8466AD82
+ create mode 100644 .Rproj.user/2A010805/sources/prop/INDEX
+ create mode 100644 .Rproj.user/2A010805/sources/s-818D4690/46F19F16
+ create mode 100644 .Rproj.user/2A010805/sources/s-818D4690/46F19F16-contents
+ create mode 100644 .Rproj.user/2A010805/sources/s-818D4690/785E9547
+ create mode 100644 .Rproj.user/2A010805/sources/s-818D4690/785E9547-contents
+ create mode 100644 .Rproj.user/2A010805/sources/s-818D4690/lock_file
+ create mode 100644 .Rproj.user/shared/notebooks/9341FCF4-meatball/1/2A010805818D4690/chunks.json
+ create mode 100644 .Rproj.user/shared/notebooks/9341FCF4-meatball/1/s/chunks.json
+ create mode 100644 .Rproj.user/shared/notebooks/9341FCF4-meatball/1/s/csetup_chunk/000002.csv
+ create mode 100644 .Rproj.user/shared/notebooks/9341FCF4-meatball/1/s/cybpmegc73my5/000043.csv
+ create mode 100644 .Rproj.user/shared/notebooks/9341FCF4-meatball/1/s/cybpmegc73my5/000044.metadata
+ create mode 100644 .Rproj.user/shared/notebooks/9341FCF4-meatball/1/s/cybpmegc73my5/000044.png
+ create mode 100644 .Rproj.user/shared/notebooks/9341FCF4-meatball/1/s/cybpmegc73my5/000044.snapshot
+ create mode 100644 .Rproj.user/shared/notebooks/patch-chunk-names
+ create mode 100644 .Rproj.user/shared/notebooks/paths
+ create mode 100644 README.md
+ create mode 100644 meatball.Rmd
+ create mode 100644 meatball.Rproj
+ create mode 100644 meatball.csv
+ create mode 100644 meatball.nb.html
+ create mode 100644 meatball.png
+ create mode 100644 meatball_files/figure-markdown_github-ascii_identifiers/viz-1.png
+]0;~/Documents/development/R/meatballkthomp-ltm:meatball kevin.thompson$ git remote add origin git@github.com:blackfist/meatball_day.git
+]0;~/Documents/development/R/meatballkthomp-ltm:meatball kevin.thompson$ git push -u origin master
+Enter passphrase for key '/Users/kevin.thompson/.ssh/id_rsa': 
+Counting objects: 50, done.
+Delta compression using up to 4 threads.
+Compressing objects:   2% (1/41)   Compressing objects:   4% (2/41)   Compressing objects:   7% (3/41)   Compressing objects:   9% (4/41)   Compressing objects:  12% (5/41)   Compressing objects:  14% (6/41)   Compressing objects:  17% (7/41)   Compressing objects:  19% (8/41)   Compressing objects:  21% (9/41)   Compressing objects:  24% (10/41)   Compressing objects:  26% (11/41)   Compressing objects:  29% (12/41)   Compressing objects:  31% (13/41)   Compressing objects:  34% (14/41)   Compressing objects:  36% (15/41)   Compressing objects:  39% (16/41)   Compressing objects:  41% (17/41)   Compressing objects:  43% (18/41)   Compressing objects:  46% (19/41)   Compressing objects:  48% (20/41)   Compressing objects:  51% (21/41)   Compressing objects:  53% (22/41)   Compressing objects:  56% (23/41)   Compressing objects:  58% (24/41)   Compressing objects:  60% (25/41)   Compressing objects:  63% (26/41)   Compressing objects:  65% (27/41)   Compressing objects:  68% (28/41)   Compressing objects:  70% (29/41)   Compressing objects:  73% (30/41)   Compressing objects:  75% (31/41)   Compressing objects:  78% (32/41)   Compressing objects:  80% (33/41)   Compressing objects:  82% (34/41)   Compressing objects:  85% (35/41)   Compressing objects:  87% (36/41)   Compressing objects:  90% (37/41)   Compressing objects:  92% (38/41)   Compressing objects:  95% (39/41)   Compressing objects:  97% (40/41)   Compressing objects: 100% (41/41)   Compressing objects: 100% (41/41), done.
+Writing objects:   2% (1/50)   Writing objects:   4% (2/50)   Writing objects:   6% (3/50)   Writing objects:   8% (4/50)   Writing objects:  10% (5/50)   Writing objects:  12% (6/50)   Writing objects:  14% (7/50)   Writing objects:  16% (8/50)   Writing objects:  18% (9/50)   Writing objects:  20% (10/50)   Writing objects:  22% (11/50)   Writing objects:  24% (12/50)   Writing objects:  26% (13/50)   Writing objects:  28% (14/50)   Writing objects:  30% (15/50)   Writing objects:  32% (16/50)   Writing objects:  34% (17/50)   Writing objects:  36% (18/50)   Writing objects:  38% (19/50)   Writing objects:  40% (20/50)   Writing objects:  44% (22/50)   Writing objects:  46% (23/50)   Writing objects:  48% (24/50)   Writing objects:  50% (25/50)   Writing objects:  52% (26/50)   Writing objects:  54% (27/50)   Writing objects:  56% (28/50)   Writing objects:  58% (29/50)   Writing objects:  60% (30/50)   Writing objects:  62% (31/50)   Writing objects:  64% (32/50)   Writing objects:  66% (33/50)   Writing objects:  68% (34/50)   Writing objects:  70% (35/50)   Writing objects:  72% (36/50)   Writing objects:  74% (37/50)   Writing objects:  76% (38/50)   Writing objects:  78% (39/50)   Writing objects:  80% (40/50)   Writing objects:  82% (41/50)   Writing objects:  84% (42/50)   Writing objects:  86% (43/50)   Writing objects:  88% (44/50)   Writing objects:  90% (45/50)   Writing objects:  92% (46/50)   Writing objects:  94% (47/50)   Writing objects:  96% (48/50)   Writing objects:  98% (49/50)   Writing objects: 100% (50/50)   Writing objects: 100% (50/50), 670.96 KiB | 4.19 MiB/s, done.
+Total 50 (delta 2), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/2)   [Kremote: Resolving deltas: 100% (2/2)   [Kremote: Resolving deltas: 100% (2/2), done.[K
+To github.com:blackfist/meatball_day.git
+ * [new branch]      master -> master
+Branch master set up to track remote branch master from origin.
+]0;~/Documents/development/R/meatballkthomp-ltm:meatball kevin.thompson$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	[31mmodified:   .Rproj.user/2A010805/console06/A0CC63F[m
+	[31mmodified:   .Rproj.user/2A010805/sources/prop/29B09FEA[m
+	[31mmodified:   .Rproj.user/2A010805/sources/prop/8466AD82[m
+	[31mmodified:   .Rproj.user/2A010805/sources/s-818D4690/46F19F16[m
+	[31mmodified:   .Rproj.user/2A010805/sources/s-818D4690/785E9547[m
+	[31mmodified:   .Rproj.user/2A010805/sources/s-818D4690/785E9547-contents[m
+	[31mmodified:   .Rproj.user/shared/notebooks/9341FCF4-meatball/1/2A010805818D4690/chunks.json[m
+	[31mmodified:   .Rproj.user/shared/notebooks/9341FCF4-meatball/1/s/chunks.json[m
+	[31mdeleted:    .Rproj.user/shared/notebooks/9341FCF4-meatball/1/s/csetup_chunk/000002.csv[m
+	[31mdeleted:    .Rproj.user/shared/notebooks/9341FCF4-meatball/1/s/cybpmegc73my5/000043.csv[m
+	[31mdeleted:    .Rproj.user/shared/notebooks/9341FCF4-meatball/1/s/cybpmegc73my5/000044.metadata[m
+	[31mdeleted:    .Rproj.user/shared/notebooks/9341FCF4-meatball/1/s/cybpmegc73my5/000044.png[m
+	[31mdeleted:    .Rproj.user/shared/notebooks/9341FCF4-meatball/1/s/cybpmegc73my5/000044.snapshot[m
+	[31mmodified:   meatball.Rmd[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	[31mmeatball.md[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+]0;~/Documents/development/R/meatballkthomp-ltm:meatball kevin.thompson$ git add .
+]0;~/Documents/development/R/meatballkthomp-ltm:meatball kevin.thompson$ git commit -m "improves the markdown"[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kcp meatball.md d[KREADME.md 
+]0;~/Documents/development/R/meatballkthomp-ltm:meatball kevin.thompson$ git add .

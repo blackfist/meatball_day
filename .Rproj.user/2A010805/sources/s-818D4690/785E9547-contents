@@ -10,10 +10,10 @@ It turns out, [that's a real thing](https://www.google.com/search?q=internationa
 
 But strangely, it appears that searches for meatball are not as popular during the week of National Meatball day as they are during other parts of the year.
 
-```{r setup}
+```{r setup, results='hide', message=FALSE, warning=FALSE}
 library(tidyverse)
 library(lubridate)
-mb <- read_csv("meatball.csv", skip=2, col_names = c("week", "count"), col_types = cols(week=col_date(), count=col_integer()))
+mb <- read_csv("meatball.csv", skip=3, col_names = c("week", "count"), col_types = cols(week=col_date(), count=col_integer()))
 herokuLight <- "#D3CBED"
 ```
 
