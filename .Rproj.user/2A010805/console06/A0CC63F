@@ -1,0 +1,7 @@
+]0;~/Documents/development/R/meatball[?1034hkthomp-ltm:meatball kevin.thompson$ mv /[K/[K~/Downloads/meat[K[K[KultiTimeline[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kesktop/meatball.csv .
+]0;~/Documents/development/R/meatballkthomp-ltm:meatball kevin.thompson$ [Kkthomp-ltm:meatball kevin.thompson$ ?read_csv
+bash: ?read_csv: command not found
+]0;~/Documents/development/R/meatball[?1034hkthomp-ltm:meatball kevin.thompson$ mv meatball.md README.md
+]0;~/Documents/development/R/meatballkthomp-ltm:meatball kevin.thompson$ git init
+Initialized empty Git repository in /Users/kevin.thompson/Documents/development/R/meatball/.git/
+]0;~/Documents/development/R/meatballkthomp-ltm:meatball kevin.thompson$ git add .

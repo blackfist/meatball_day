@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1520610802218.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1696408057",
+    "id" : "785E9547",
+    "lastKnownWriteTime" : 1520613736,
+    "last_content_update" : 1520613736599,
+    "path" : "~/Documents/development/R/meatball/meatball.Rmd",
+    "project_path" : "meatball.Rmd",
+    "properties" : {
+        "chunk_output_type" : "inline",
+        "cursorPosition" : "37,37",
+        "last_setup_crc32" : "818D469081a221e5",
+        "scrollLine" : "29",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

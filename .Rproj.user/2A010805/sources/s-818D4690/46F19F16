@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1520610876998.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "46F19F16",
+    "lastKnownWriteTime" : 1520613085,
+    "last_content_update" : 1520613085461,
+    "path" : "~/Documents/development/R/meatball/meatball.csv",
+    "project_path" : "meatball.csv",
+    "properties" : {
+        "cursorPosition" : "263,13",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}
