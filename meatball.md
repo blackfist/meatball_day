@@ -28,12 +28,14 @@ plot <- mb %>%
   geom_rect(fill=herokuLight, aes(ymin=0, ymax=Inf, xmin=ymd("2017-03-05"), xmax=ymd("2017-03-12"))) +
   
   geom_line(stat="identity") +
-  theme_light() +
   scale_y_continuous() + 
   labs(title="Five years of Google searches for \"meatball\"",
        subtitle = "Source: Google Trends as of Mar 9, 2018",
        y="Proportion of searches",
-       x="Week")
+       x="Week") +
+  theme_bw() + 
+  theme(panel.border = element_blank(), panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(), axis.line = element_line(colour = "black"))
 print(plot)
 ```
 
